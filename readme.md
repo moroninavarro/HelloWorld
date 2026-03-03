@@ -2,8 +2,9 @@
 
 # Hello World - Example Project
 
-**Purpose:** To write a simple python project for the Hello World
-[Software Demo Video](http://youtube.link.goes.here)
+**Purpose:** To write a simple python project for the Hello World.
+
+[Hello World - Example Project](http://youtube.link.goes.here)
 
 # Development Environment
 
